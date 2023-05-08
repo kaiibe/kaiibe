@@ -5,13 +5,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-- 🌱 I’m currently learning **Python libraries**
+- 🌱 I’m currently learning **new technologies**
 
-- 💬 Ask me about **Coding, coding and coding**
+- 💬 Ask me about **coding, coding and coding**
 
-- 📫 How to reach me **kaiibe@mail.ru**
+- 📫 Reach me out on **kaiibe@mail.ru**
 
-- ⚡ Fun fact **I'm not a nerd**
+- ⚡ Fun fact, **I'm not a nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
