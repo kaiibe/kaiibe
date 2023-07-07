@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Behzod. Nice to meet you!</h1>
 <h3 align="center">Building solutions, one line of code at a time</h3>
-
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 - 🌱 I’m currently learning **new technologies**
@@ -35,5 +34,10 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
+<img src="https://leetcode.card.workers.dev/kaiibe?theme=dark&font=source_code_pro&extension=null">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kaiibe&show_icons=true&theme=transparent">
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiibe&hide_progress=true&theme=transparent">
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiibe&hide_progress=true&theme=transparent">
+
+
+
+
