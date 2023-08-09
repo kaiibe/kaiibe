@@ -38,9 +38,3 @@
 <img width="30%" src="https://codeforces-readme-stats.vercel.app/api/card?username=Beha_888&theme=dark">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kaiibe&show_icons=true&theme=transparent">
 <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiibe&hide_progress=true&theme=transparent">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
-  <img alt="github-snake" src="github-user-contribution.svg" />
-</picture>
