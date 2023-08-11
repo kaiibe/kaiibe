@@ -3,11 +3,14 @@
 <h1 align="center">Hi 👋, I'm Behzod. Nice to meet you!</h1>
 <h3 align="center">Building solutions, one line of code at a time</h3>
 
-<section >
+<div style="display: flex; color: red;">
   <div>
-
+    a
   </div>
-</section>
+  <div>
+    b
+  </div>
+</div>
 
 <div align="right" width="400px">
   <img  alt="Coding" width="400px" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"><br>
