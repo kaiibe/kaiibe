@@ -1,7 +1,8 @@
 [![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Behzod. Nice to meet you!</h1>
-<h3 align="center">Building solutions, one line of code at a time</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=Zephir0g&color=brightgreen)
+<h3 align="center">Building solutions, one line of code at a time </h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 - 🌱 I’m currently learning **new technologies**
