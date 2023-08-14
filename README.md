@@ -4,7 +4,7 @@
 <h3 align="center">Building solutions, one line of code at a time</h3>
 
 <img align="right" alt="Coding" width="400px" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"><br>
-<img align="right" src="https://komarev.com/ghpvc/?username=kaiibe&color=brightgreen">
+<img  src="https://komarev.com/ghpvc/?username=kaiibe&color=brightgreen">
 
   
 - 🌱 I’m currently learning **new technologies**
