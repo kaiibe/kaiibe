@@ -7,7 +7,7 @@
 <img  src="https://komarev.com/ghpvc/?username=kaiibe&color=brightgreen">
 
   
-- 🌱 I’m currently learning **new technologies**
+- 🌱 I’m currently developing my protfolio
 
 - 💬 Ask me about **coding, coding and coding**
 
