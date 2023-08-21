@@ -40,5 +40,3 @@
 
 <a href="https://leetcode.com/kaiibe/" target="_blank"><img align="left" src="https://leetcode.card.workers.dev/kaiibe?theme=dark&font=source_code_pro&extension=null"></a>
 <a href="https://codeforces.com/profile/Beha_888" target="_blank"><img width="30%" src="https://codeforces-readme-stats.vercel.app/api/card?username=Beha_888&theme=dark"></a>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kaiibe&show_icons=true&theme=transparent">
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiibe&hide_progress=true&theme=transparent">
