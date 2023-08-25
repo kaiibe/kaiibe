@@ -1,21 +1,23 @@
 [![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Behzod. Nice to meet you!</h1>
-<h3 align="center">Building solutions, one line of code at a time</h3>
+<h3 align="center">“Making magic with keystrokes”</h3>
 
 <img align="right" alt="Coding" width="400px" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"><br>
-<img  src="https://komarev.com/ghpvc/?username=kaiibe&color=brightgreen">
+<img src="https://komarev.com/ghpvc/?username=kaiibe&color=brightgreen">
 
-  
-- 🌱 I’m currently developing my protfolio
+<h2>Who Am I</h2>
 
-- 💬 Ask me about **coding, coding and coding**
+<ul>
+  <li>🌱 I’m currently developing my protfolio</li>
+  <li>💬 Ask me about <strong>coding, coding and coding</strong></li>
+  <li>📫 Reach me out on <a href="mailto:kaiibe@mail.ru" class="contact-link">kaiibe@mail.ru</a></li>
+  <li>⚡ Fun fact, <strong>I'm not a nerd</strong></li>
+</ul>
 
-- 📫 Reach me out on **kaiibe@mail.ru**
+<br>
 
-- ⚡ Fun fact, **I'm not a nerd**
-
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -29,7 +31,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
-<h3>Connect With Me:</h3>
+<h2>Connect With Me:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behzod-khomidov-bk/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_kaiibe__)
