@@ -15,14 +15,6 @@
 
 - ⚡ Fun fact, **I'm not a nerd**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/behzod-khomidov-bk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="behzod-khomidov-bk" height="30" width="40" /></a>
-<a href="https://instagram.com/_kaiibe__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kaiibe__" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/beha_888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="beha_888" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kaiibe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaiibe" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -37,6 +29,11 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
+<h3>Connect With Me:</h3>
 
-<a href="https://leetcode.com/kaiibe/" target="_blank"><img align="left" src="https://leetcode.card.workers.dev/kaiibe?theme=dark&font=source_code_pro&extension=null"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behzod-khomidov-bk/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_kaiibe__)
+
+
+<a href="https://leetcode.com/kaiibe/" target="_blank"><img src="https://leetcode.card.workers.dev/kaiibe?theme=dark&font=source_code_pro&extension=null"></a>
 <a href="https://codeforces.com/profile/Beha_888" target="_blank"><img width="30%" src="https://codeforces-readme-stats.vercel.app/api/card?username=Beha_888&theme=dark"></a>
