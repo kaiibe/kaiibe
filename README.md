@@ -35,7 +35,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behzod-khomidov-bk/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_kaiibe__)
+[![Codeforces](https://img.shields.io/badge/codeforces-%230077B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white&color=orange)](https://codeforces.com/profile/Beha_888/)
+[![Leetcode](https://img.shields.io/badge/leetcode-%230077B5.svg?&style=for-the-badge&logo=leetcode&logoColor=white&color=black)](https://leetcode.com/kaiibe/)
+
+[![GithubStats](https://github-readme-stats.vercel.app/api?username=kaiibe&show_icons=true&rank_icon=github&theme=dark)](https://github-readme-stats.vercel.app/api?username=kaiibe&show_icons=true&rank_icon=github&theme=dark)
+[![GithubStats](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiibe&layout=donut&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiibe&layout=donut&theme=dark)
 
 
-<a href="https://leetcode.com/kaiibe/" target="_blank"><img src="https://leetcode.card.workers.dev/kaiibe?theme=dark&font=source_code_pro&extension=null"></a>
-<a href="https://codeforces.com/profile/Beha_888" target="_blank"><img width="30%" src="https://codeforces-readme-stats.vercel.app/api/card?username=Beha_888&theme=dark"></a>
+
+
+
+
