@@ -44,7 +44,7 @@
 
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=kaiibe&show_icons=true&rank_icon=github&theme=dark)](https://github-readme-stats.vercel.app/api?username=kaiibe&show_icons=true&rank_icon=github&theme=dark)&nbsp; &nbsp;
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiibe&layout=donut&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiibe&layout=donut&theme=dark" width="35.3%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiibe&layout=donut&theme=dark" width="37.3%">
 </a>
 
 
