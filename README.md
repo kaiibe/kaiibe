@@ -31,6 +31,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
+<br>
 <h2>Connect With Me:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behzod-khomidov-bk/)
@@ -38,8 +39,13 @@
 [![Codeforces](https://img.shields.io/badge/codeforces-%230077B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white&color=orange)](https://codeforces.com/profile/Beha_888/)
 [![Leetcode](https://img.shields.io/badge/leetcode-%230077B5.svg?&style=for-the-badge&logo=leetcode&logoColor=white&color=black)](https://leetcode.com/kaiibe/)
 
-[![GithubStats](https://github-readme-stats.vercel.app/api?username=kaiibe&show_icons=true&rank_icon=github&theme=dark)](https://github-readme-stats.vercel.app/api?username=kaiibe&show_icons=true&rank_icon=github&theme=dark)
-[![GithubStats](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiibe&layout=donut&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiibe&layout=donut&theme=dark)
+<br>
+<h2>Stats</h2>
+
+[![GithubStats](https://github-readme-stats.vercel.app/api?username=kaiibe&show_icons=true&rank_icon=github&theme=dark)](https://github-readme-stats.vercel.app/api?username=kaiibe&show_icons=true&rank_icon=github&theme=dark)&nbsp; &nbsp;
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiibe&layout=donut&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiibe&layout=donut&theme=dark" width="31.3%">
+</a>
 
 
 
