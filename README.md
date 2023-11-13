@@ -9,7 +9,7 @@
 <h2>Who Am I</h2>
 
 <ul>
-  <li>🌱 I’m currently learning web technologies</li>
+  <li>🌱 Currently learning new technologies</li>
   <li>💬 Ask me about <strong>coding, coding and coding</strong></li>
   <li>📫 Reach me out on <a href="mailto:kaiibe@mail.ru" class="contact-link">kaiibe@mail.ru</a></li>
   <li>⚡ Fun fact, <strong>I'm not a nerd</strong></li>
